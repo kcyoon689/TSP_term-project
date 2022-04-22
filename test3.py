@@ -6,6 +6,13 @@ entitled "Applying a genetic algorithm to the travelling salesman problem"
 that can be found at: http://goo.gl/cJEY1
 """
 
+# 시작점 고정하기,
+    # 지금 값이 optimal하지 않은데.... \
+    # 이유가 시작점 고정이 안되어서 그런걸까?
+# 출력은 좌표 + city 번호도 같이 출력하기....
+# 이동한대로 그래프로 출력하기.
+
+
 import math
 import random
 
